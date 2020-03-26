@@ -3758,9 +3758,13 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
-.prising_area {
+/* .prising_area {
   padding-top: 170px;
   padding-bottom: 150px;
+} */
+
+#instagram:hover{
+ background-color:#F64E4D;
 }
 
 /* line 4, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_prising.scss */
