@@ -141,14 +141,13 @@
            }
         }
         .main-menu{
-            margin-left: 215px;
             text-align: right;
             padding: 12px 0;
             ul{
                 li{
                     display: inline-block;
                     position: relative;
-                    margin: 220 10px;
+                    margin: 0 10px;
                     // @media #{$mid_device} {
                     //     margin-right: 20px;
                     // }

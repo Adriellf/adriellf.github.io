@@ -1524,35 +1524,7 @@ h3 {
 
 /* line 15, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .features_area .about_draw img {
-  width: 600px;
-  height: 700px;
-  margin-left: 57px;
-}
-
-/* line 19, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
-.features_area .features_main_wrap {
-  padding: 90px 0;
-}
-
-@media (max-width: 767px) {
-  /* line 19, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
-  .features_area .features_main_wrap {
-    padding: 30px 0;
-  }
-}
-
-@media (max-width: 767px) {
-  /* line 25, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
-  .features_area .features_main_wrap .about_image img {
-    width: 100%;
-  }
-}
-
-@media (max-width: 767px) {
-  /* line 32, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
-  .features_area .features_info2 {
-    margin-bottom: 30px;
-  }
+  width: 100%;
 }
 
 /* line 36, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
