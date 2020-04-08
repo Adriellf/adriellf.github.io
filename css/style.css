@@ -3897,7 +3897,6 @@ h3 {
 .contact-info .media-body h3 {
   font-size: 16px;
   margin-bottom: 0;
-  font-size: 16px;
   color: #2a2a2a;
 }
 
@@ -3917,7 +3916,7 @@ h3 {
   font-size: 27px;
   margin-bottom: 20px;
   margin-top: 90px;
-  margin-left: 20px
+  margin-left: 30px
 }
 
 /* line 53, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
@@ -3927,7 +3926,8 @@ h3 {
 
 /* line 57, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact .form-group {
-  margin-bottom: 30px;
+  margin-bottom: 3 0px;
+  margin-left: 30px;
 }
 
 /* line 61, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
