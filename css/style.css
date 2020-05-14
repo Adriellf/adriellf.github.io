@@ -3554,20 +3554,20 @@ h3 {
 
 /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2.plus_margin {
-  margin-bottom: 180px;
+  margin-bottom: 80px;
 }
 
 @media (max-width: 767px) {
   /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
   .service_area_2.plus_margin {
-    margin-bottom: 40px;
+    margin-bottom: 10px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 60, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
   .service_area_2.plus_margin {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
   }
 }
 
@@ -3579,29 +3579,20 @@ h3 {
 @media (max-width: 767px) {
   /* line 69, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
   .service_area_2 .man_thumb {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 }
 
 /* line 74, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 .man_thumb img {
-  width: 100%;
-}
-
-/* line 78, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .mobile_screen {
-  text-align: center;
-}
-
-/* line 80, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
-.service_area_2 .mobile_screen img {
-  width: 100%;
+  width: 220px;
+  height: 450px;
 }
 
 /* line 84, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 .service_content_wrap {
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 10px;
+  padding-bottom: 20px;
   border-bottom: 1px solid #E8E8E8;
 }
 
