@@ -1019,7 +1019,7 @@ h3 {
 
 /* line 124, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #2f99fa;
+  background: #224488;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 500;
@@ -1039,9 +1039,8 @@ h3 {
 
 /* line 135, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a:hover {
-  background: #2f99fa;
-  color: #fff;
-  border: 1px solid #2f99fa;
+  background: #fff;
+  color: #224488;
 }
 
 /* line 143, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
