@@ -1072,20 +1072,20 @@ h3 {
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 157, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .main-menu ul li a {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 157, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .main-menu ul li a {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
 /* line 176, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a i {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 @media (max-width: 767px) {
@@ -3527,7 +3527,7 @@ h3 {
 
 /* line 30, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .single_service h3 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
   color: #2C2C2C;
   line-height: 38px;
@@ -3540,7 +3540,7 @@ h3 {
 
 /* line 46, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .col-lg-4:nth-child(3) .single_service .thumb {
-  background: #104877;
+  background: #EC7000;
 }
 
 /* line 58, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
