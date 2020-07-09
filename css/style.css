@@ -3584,6 +3584,11 @@ h3 {
   width: 220px;
   height: 450px;
 }
+.service_area_2 .man_thumbm img {
+  width: 300px;
+  height: 270px;
+}
+
 
 /* line 84, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area_2 .service_content_wrap {
