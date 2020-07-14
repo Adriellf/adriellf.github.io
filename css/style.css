@@ -7091,4 +7091,70 @@ h6 {
   font-size: 12px;
 }
 
+
+
+.service_area_fisica {
+  background: #fff;
+}
+
+/* line 3, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica .single_service {
+  padding: 40px 30px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 3, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+  .service_area_fisica .single_service {
+    padding: 40px 20px;
+  }
+}
+
+/* line 8, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica .single_service .icon {
+  margin-bottom: 10px;
+}
+
+/* line 10, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica .single_service .icon i {
+  font-size: 50px;
+  color: #000000;
+}
+
+/* line 15, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica.single_service h3 {
+  font-size: 26px;
+  font-weight: 500;
+  color: #000000;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 15, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+  .service_area_fisica .single_service h3 {
+    font-size: 20px;
+  }
+}
+
+/* line 23, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica .single_service li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #838383;
+  margin: 10px -20px 15px 20px;
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 34, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+  .service_area_fisica .single_service .boxed-btn3-white {
+    padding: 5px 10px;
+  }
+}
+
+/* line 40, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
+.service_area_fisica .col-xl-4:nth-child(2) .single_service {
+  background: #fff;
+}
+
+
 /*# sourceMappingURL=style.css.map */
