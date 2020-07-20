@@ -1709,19 +1709,7 @@ h3 {
 }
 
 /* line 148, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
-.features_area .features_info ul li::before {
-  position: absolute;
-  left: 0;
-  background-image: url(../img/ilstrator_img/check.svg);
-  width: 16px;
-  height: 16px;
-  content: '';
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
+
 
 /* line 160, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .features_area .features_info .boxed-btn3 {
