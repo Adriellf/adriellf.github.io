@@ -34,6 +34,30 @@ body {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+.image {
+  position: relative;
+  width: 500px;
+  height: 430px;
+  overflow: hidden;
+}
+.image:hover {
+  --zoom: 3;
+}
+.image img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -webkit-transform: scale(var(--zoom, 1));
+          transform: scale(var(--zoom, 1));
+  -webkit-transform-origin: var(--x) var(--y);
+          transform-origin: var(--x) var(--y);
+  -webkit-transition: -webkit-transform .3s ease;
+  transition: -webkit-transform .3s ease;
+  transition: transform .3s ease;
+  transition: transform .3s ease, -webkit-transform .3s ease;
+}
 
 /* line 16, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
 a,
