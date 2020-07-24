@@ -34,7 +34,7 @@ body {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
-.image {
+/*.image {
   position: relative;
   width: 500px;
   height: 430px;
