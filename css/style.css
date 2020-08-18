@@ -454,7 +454,7 @@ h3 {
   border-radius: 5px;
   text-align: center;
   color: #fff !important;
-  text-transform: capitalize;
+  text-transform: none;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -495,7 +495,7 @@ h3 {
   border-radius: 5px;
   text-align: center;
   color: #fff !important;
-  text-transform: capitalize;
+  text-transform: none;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -535,7 +535,7 @@ h3 {
   border-radius: 5px;
   text-align: center;
   color: #fff !important;
-  text-transform: capitalize;
+  text-transform: none;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -580,7 +580,7 @@ h3 {
   -moz-border-radius: 5px;
   border-radius: 5px;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: none;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -670,7 +670,7 @@ h3 {
   font-size: 14px;
   color: #5DB2FF;
   border: 1px solid #5DB2FF;
-  text-transform: capitalize;
+  text-transform: none;
   padding: 8px 28px;
   font-weight: 500;
   -webkit-border-radius: 5px;
@@ -1084,13 +1084,12 @@ h3 {
 .header-area .main-header-area .main-menu ul li a {
   color: #104877;
   font-size: 20px;
-  text-transform: capitalize;
+  text-transform: none;
   font-weight: 300;
   display: inline-block;
   padding: 0px 0px 0px 0px;
   font-family: "Poppins", sans-serif;
   position: relative;
-  text-transform: capitalize;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -2368,7 +2367,7 @@ h3 {
 /* line 204, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_offers.scss */
 .features_room .rooms_here .single_rooms .room_thumb .room_heading a {
   color: #fff;
-  text-transform: capitalize;
+  text-transform: none;
   font-weight: 600;
   position: relative;
   z-index: 8;
@@ -2757,7 +2756,7 @@ h3 {
   font-size: 18px;
   font-weight: 500;
   color: #0A8CFF;
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 40px;
   font-family: "Roboto", sans-serif;
 }
@@ -2774,7 +2773,7 @@ h3 {
   font-size: 22px;
   font-weight: 400;
   color: #040E27;
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 40px;
 }
 
@@ -3049,7 +3048,7 @@ h3 {
   color: #fff;
   font-weight: 300;
   margin-bottom: 0;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 @media (max-width: 767px) {
@@ -3064,7 +3063,7 @@ h3 {
   font-size: 18px;
   color: #fff;
   font-weight: 400;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 /* line 50, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_bradcam.scss */
@@ -3088,7 +3087,7 @@ h3 {
 /* line 66, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_bradcam.scss */
 .popup_box .boxed-btn3 {
   width: 100%;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_bradcam.scss */
@@ -7017,7 +7016,7 @@ h6 {
   font-size: 20px;
   -webkit-transition: 0.8s;
   transition: 0.8s;
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 22px;
 }
 
