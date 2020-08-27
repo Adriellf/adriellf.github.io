@@ -11,14 +11,15 @@ $subject = "Contato - genius";
 $body = "Nome: ".$nome. "\r\n".
         "Email: ".$email."\r\n".
         "Mensagem: ".$mensagem;
-$header = "myalliensanro@gmail.com"."\r\n".
+$header = "From:myalliensanro@gmail.com"."\r\n".
           "Reply-To:".$email. "\e\n".
           "X=Mailer:PHP/".phpversion();
 
 
 if(mail($to,$subject,$body,$header)){
+
 echo("Email enviado com sucesso!");
-}else{
+    }else{
 echo("O Email não pode ser enviado");
 }
 
