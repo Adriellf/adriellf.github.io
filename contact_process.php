@@ -19,9 +19,9 @@ if (isset($_POST['email']) && !empty($_POST['email'])) {
 
     try {
         if (mail($to, $subject, $body, $header)) {
-            echo 'E-mail enviado com sucesso!';
+            echo "<script language=javascript>alert( 'Mensagem de e-mail enviada com sucesso!' );</script>";
         } else {
-            echo 'Ocorreu um erro desconhecido ao enviar e-mail.';
+            echo "<script language=javascript>alert( 'Ocorreu um erro ao enviar sua mensagem.' );</script>";
         }
     } catch (Exception $e) {
         echo json_encode(['result' => false, 'msg' => $e->getMessage()]);

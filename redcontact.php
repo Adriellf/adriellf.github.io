@@ -52,7 +52,7 @@
 	</div>
 </div>
 
-<div class="waves"><br><br><a href="index.html">Voltar</a>
+<div class="waves"><br><br><a href="index.php">Voltar</a>
 	<svg width="100%" height="230px" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
 		<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
 			<stop offset="0%" stop-color="#224488" />

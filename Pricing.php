@@ -53,15 +53,15 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a class="active" href="index.html">Início</a></li>
-                                        <li><a href="Pricing.html">Genius Web</a></li> 
-                                        <li><a href="features.html">Genius Nuvens</a></li>
-                                        <li><a href="ecommerce.html">E-commerce Genius</a></li>
+                                        <li><a class="active" href="index.php">Início</a></li>
+                                        <li><a href="Pricing.php">Genius Web</a></li> 
+                                        <li><a href="features.php">Genius Nuvens</a></li>
+                                        <li><a href="ecommerce.php">E-commerce Genius</a></li>
                                         <li><a href="#">A Empresa <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="blog.html">Genius 22 anos</a></li>
-                                                <li><a href="employees.html">Nossa Equipe</a></li>
-                                                <li><a href="contact.html">Contato</a></li>
+                                                <li><a href="blog.php">Genius 22 anos</a></li>
+                                                <li><a href="employees.php">Nossa Equipe</a></li>
+                                                <li><a href="contact.php">Contato</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -71,7 +71,7 @@
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="Appointment">
                                 <div class="book_btn d-none d-lg-block">
-                                    <a  href="redcontact.html">Teste Grátis</a>
+                                    <a  href="redcontact.php">Teste Grátis</a>
                                 </div>
                             </div>
                         </div>  
